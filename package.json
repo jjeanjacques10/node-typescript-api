@@ -20,9 +20,13 @@
   "author": "Jean Jacques Barros",
   "license": "ISC",
   "dependencies": {
+    "@overnightjs/core": "^1.7.4",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
     "module-alias": "^2.2.2"
   },
   "devDependencies": {
+    "@types/express": "^4.17.7",
     "@types/jest": "^25.2.1",
     "@types/module-alias": "^2.0.0",
     "@types/node": "^13.13.2",
